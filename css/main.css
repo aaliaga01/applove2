@@ -21,7 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.71429;
   background-color: #fff;
-  font-family: "Raleway", Verdana, Times;
+  font-family: 'Raleway', sans-serif;
 }
 
 img {
@@ -126,6 +126,12 @@ header{
   display: inline-block;
   width: 30%;
   margin-top: 63px;
+}
+
+.text-work{
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 /*estilos FOOTER*/
