@@ -27,4 +27,7 @@
 	display: inline-block;
 }
 
-
+.centrar{
+  width: 70%;
+  margin: 0 auto;
+}
