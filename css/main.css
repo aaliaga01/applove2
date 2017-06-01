@@ -142,3 +142,39 @@ footer{
   color:white;
   padding-top: 7px;
 }
+
+/*estilos modal*/
+#box-work-modal{
+  background-color: rgba(0,185,143,0.85);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#box-work-modal .modal-work{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 100px;
+}
+
+.modal-work img{
+  width: 100%;
+  border:solid 10px white;
+}
+
+.modal-work .cerrarX{
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(0,185,143);
+  position: absolute;
+  top: 17%;
+  right: 30%;
+  cursor: pointer;
+}
+
+.hide{
+  display: none;
+}
