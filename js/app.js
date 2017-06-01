@@ -54,6 +54,10 @@ function modal (){
     	cerrar.appendChild(crearX);//se coloca la X dentro del span
     	modalMostrar.appendChild(cerrar);//se coloca el span junto con la foto
 
+
+    	cerrar.addEventListener("click",function(){
+    			modalWork.classList.add("hide");
+    		});
     	});
 
     });

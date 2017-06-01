@@ -162,7 +162,8 @@ footer{
 
 .modal-work img{
   width: 100%;
-  border:solid 10px white;
+  border:solid 10px whitesmoke;
+  box-shadow: 8px 8px 30px 3px black;
 }
 
 .modal-work .cerrarX{
