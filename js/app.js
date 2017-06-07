@@ -1,7 +1,7 @@
 /*
  * Archivo principal de funcionalidad de JS
  */
-
+/*
 //Para agregar fotografias y nombre de proyecto
 //guardé las rutas de las imagenes en un array
  const galeria = ["assets/images/img-1.jpg", "assets/images/img-2.jpg", "assets/images/img-3.jpg",
@@ -26,7 +26,7 @@
 	boxWork.appendChild(titulo);//a la etiqueta h5 se le asigna como padre el div clase box-work
 
 });
-
+*/
 //efecto ventana modal
 function modal (){
 	var proyectos = Array.from(document.getElementsByClassName("box-work"));//se llaman todas las clases que contienen foto y titulo
